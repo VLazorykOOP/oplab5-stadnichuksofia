@@ -1,0 +1,17 @@
+D:\2 course\Практика2024\lab_5\Lab5_2\bin\Debug\net8.0-windows\Lab5_2.exe
+D:\2 course\Практика2024\lab_5\Lab5_2\bin\Debug\net8.0-windows\Lab5_2.deps.json
+D:\2 course\Практика2024\lab_5\Lab5_2\bin\Debug\net8.0-windows\Lab5_2.runtimeconfig.json
+D:\2 course\Практика2024\lab_5\Lab5_2\bin\Debug\net8.0-windows\Lab5_2.dll
+D:\2 course\Практика2024\lab_5\Lab5_2\bin\Debug\net8.0-windows\Lab5_2.pdb
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.Form1.resources
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.csproj.GenerateResource.cache
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.AssemblyInfoInputs.cache
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.AssemblyInfo.cs
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.csproj.CoreCompileInputs.cache
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.sourcelink.json
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.dll
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\refint\Lab5_2.dll
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.pdb
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\Lab5_2.genruntimeconfig.cache
+D:\2 course\Практика2024\lab_5\Lab5_2\obj\Debug\net8.0-windows\ref\Lab5_2.dll
